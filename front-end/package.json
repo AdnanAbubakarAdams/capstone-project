@@ -7,7 +7,7 @@
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.10.15",
     "@nivo/calendar": "^0.80.0",
-    "@nivo/pie": "^0.80.0",
+    "@nivo/pie": "^0.81.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -21,7 +21,7 @@
     "react-icons": "^4.8.0",
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
-    "socket.io": "^4.5.4",
+    "socket.io": "^4.6.0",
     "usa-states": "^0.0.6",
     "web-vitals": "^2.1.4"
   },
