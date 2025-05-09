@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/samfigueroa92/capstone-project#readme",
   "dependencies": {
-    "@mui/material": "^5.11.15",
+    "@mui/material": "^7.0.0",
     "@nivo/calendar": "^0.80.0",
     "@nivo/pie": "^0.80.0",
     "cors": "^2.8.5",
